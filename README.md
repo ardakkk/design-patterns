@@ -5,6 +5,7 @@
 |:-------:|:----------- |
 | [Singleton](/creational/singleton) | A class with only a single instance with global access point |
 | [Prototype](/creational/prototype) | A fully initialized instance used for crying or cloning |
+| [Prototype](/creational/factory) | This makes an instance of several derived classes based on interfaced data or events |
 
 ## Behavioral Design Patterns
 | Pattern | Description |
