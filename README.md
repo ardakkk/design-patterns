@@ -12,6 +12,11 @@
 |:-------:|:----------- |
 | [Observer](/behavioral/observer) | A way of notifying change to a number of classes to ensure consistency between the classes |
 
+## Structural Design Patterns
+| Pattern | Description |
+|:-------:|:----------- |
+| [Adapter](/structural/adapter) | Match interfaces of different classes therefore classes can work together despite incompatible interfaces |
+
 ## License
 
 [MIT License](./LICENSE.md) © Ardak Tileu
